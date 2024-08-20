@@ -1,0 +1,31 @@
+.background{
+    background-image: url("fondo.jpg");
+    background-position: conter;
+    background-size: cover;
+}
+
+body{
+    cursor: pointer;
+}
+
+h1{
+    color: purple;
+    font-size: 45px;
+}
+
+#canvitas{
+    border-width:10px;
+    background-color:rgb(255, 255, 255);
+    border-style:ridge;
+}
+#borrador{
+    background-color: #8d0000ec;
+    border: none;
+    color: gray(32, 255, 2);
+    padding: 10px 42px;
+    font-size: 16px;
+}
+input
+{
+    margin-right: 20px;
+}
